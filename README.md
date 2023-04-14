@@ -4,11 +4,11 @@ This is a repository of HTML/CSS projects for beginners. These projects are desi
 ## Projects
 The following projects are included in this repository:
 
-- Hello World - a simple program that prints "Hello, World!" to the console
-- Calculator - a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers
-- Guess the Number - a game where the user tries to guess a randomly generated number
-- Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
-- Tic Tac Toe - a game where the user plays against the computer in a game of Tic Tac Toe
+- Personal Website - a simple website that showcases your personal information, interests, and skills
+- Recipe Book - a website that displays various recipes with images and ingredients
+- Landing Page - a website that promotes a product or service with a call-to-action button
+- Portfolio - a website that showcases your previous projects and work experience
+- Blog - a website that allows you to create and publish blog posts
 
 Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
 
