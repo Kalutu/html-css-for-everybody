@@ -17,8 +17,8 @@ To get started with these projects, follow these steps:
 
 - Clone the repository to your local machine
 - Navigate to the project directory
-- Compile and run the project
-- Follow the instructions in the project description to complete the project.
+- Open the project files in your text editor of choice and modify the HTML and CSS files to complete the project.
+- Open the HTML file in your web browser to view the completed project.
 
 ## Contributing
 If you would like to contribute to this repository, please open a pull request with your changes. We welcome contributions from programmers of all skill levels.
