@@ -9,5 +9,5 @@ It includes various types of form fields such as text inputs, radio buttons, che
 ## Styling
 The form is styled using CSS in the styles.css file. The styles are organized into different sections that target specific elements of the form, such as the body, headings, labels, input fields, and buttons. You can modify these styles or add your own to customize the appearance of the form.
 
-License
-This registration form is released under the MIT License. Feel free to use it for your own projects or modify it as needed. Refer to the LICENSE file for more information.
+## Credits
+This project is based on a challenge from the freeCodeCamp CSS course.
