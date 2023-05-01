@@ -18,4 +18,4 @@ To view the web page locally, simply clone this repository and open index.html i
 This web page can be used as a starting point for building more complex web pages using HTML and CSS.
 
 ## Credits
-The colored marker design used in this project is inspired by the following CodePen by developer Majid Bukhari: https://codepen.io/majidbukhari/pen/ZEeyyVJ
+This project is based on a challenge from the freeCodeCamp CSS course.
