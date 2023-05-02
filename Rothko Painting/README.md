@@ -10,7 +10,7 @@ The painting is created using CSS styling. The canvas is represented by a div el
 The colors and dimensions of each element are specified using CSS rules in the styles.css file.
 
 ## Acknowledgements
-This painting is inspired by the work of Mark Rothko, a prominent abstract expressionist painter. The code for the painting was written by kalutu Daniel.
+This painting is inspired by the work of Mark Rothko, a prominent abstract expressionist painter. The code for the painting was written by Kalutu Daniel.
 
 
 
