@@ -11,4 +11,11 @@ To run this project, you will need a web browser such as Google Chrome, Firefox,
 - HTML
 - CSS
 
+## Author
+This project was created by Kalutu Daniel.
+
+## Credits
+This project is based on a challenge from the freeCodeCamp CSS course.
+
+
 
