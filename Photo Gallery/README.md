@@ -11,3 +11,8 @@ You can view the photo gallery by opening the HTML file in a web browser. The im
 
 ## Author
 This project was created by Kalutu Daniel.
+
+## Credits
+This project is based on a challenge from the freeCodeCamp CSS course.
+
+
