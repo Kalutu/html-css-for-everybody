@@ -7,7 +7,7 @@ This repository contains the HTML and CSS code for a magazine article about the 
 - [Technologies](#technologies)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Credits](#credits)
 
 ## Description
 The HTML code in this repository represents a magazine article layout. It includes headings, paragraphs, images, and links to provide an engaging reading experience. The CSS code styles the elements in the article, giving it a visually appealing design.
@@ -28,17 +28,7 @@ To view the magazine article, follow these steps:
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-
-## CSS Styles
-The CSS code in this repository styles the HTML elements in the magazine article. Here are some of the key styles applied:
-- Font families: 'Baskervville', 'Anton', and 'Raleway'
-- Background color: rgb(20, 30, 40)
-- Text color: linen
-- Grid layout for the main content
-- Various font sizes and alignments for headings, paragraphs, and quotes
-- Styling for images, links, and social icons
-- Media queries for responsive design
-
-To see the complete CSS code, please refer to the `styles.css` file in this repository.
+## Credits
+This project is based on a challenge from the freeCodeCamp CSS course.
 
 
