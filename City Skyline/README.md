@@ -10,7 +10,7 @@ To view the city skyline, you can follow these steps:
 ## Structure
 The HTML code is divided into two main sections:
 - Background Buildings: This section represents the background buildings of the city skyline. It includes nested <div> elements with class names such as building-wrap, window-wrap, and bb1-window. These class names are used to style and position the elements using CSS.
-- Foreground Buildings: This section represents the foreground buildings of the city skyline. Similar to the background buildings section, it contains nested <div> elements with class names like building-wrap, window-wrap, and fb1a.
+- Foreground Buildings: This section represents the foreground buildings of the city skyline. Similar to the background buildings section, it contains nested ```<div>``` elements with class names like building-wrap, window-wrap, and fb1a.
 
 ## Day to Night Transition
 The city skyline in this project features a dynamic day to night transition effect. This effect is achieved through a media query in the CSS code. When the viewport width is below 1000 pixels, the colors of the buildings and sky change to create a nighttime atmosphere.
