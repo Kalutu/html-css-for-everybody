@@ -13,7 +13,7 @@ This repository contains the HTML and CSS code for a magazine article about the 
 The HTML code in this repository represents a magazine article layout. It includes headings, paragraphs, images, and links to provide an engaging reading experience. The CSS code styles the elements in the article, giving it a visually appealing design.
 
 ## Screenshot
-Insert a screenshot of the rendered HTML page here (if applicable).
+
 
 ## Technologies
 The following technologies were used in creating the magazine article:
