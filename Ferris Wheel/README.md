@@ -4,12 +4,12 @@ This project is a simple representation of a Ferris wheel using HTML and CSS. It
 ## Getting Started
 To view the Ferris wheel, simply open the `index.html` file in a web browser.
 
-## Prerequisites
-
-
 ## Built With
 - HTML
 - CSS
+
+## Contributing
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Author
 This project was created by Kalutu Daniel.
