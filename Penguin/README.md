@@ -16,7 +16,9 @@ You can customize the appearance of the penguin by modifying the CSS variables d
 
 Feel free to experiment with different colors to create your own unique penguin!
 
-## Credits
-This illustration was created as a fun project and is inspired by various CSS art examples found online.
+## Author
+This project was created by Kalutu Daniel.
 
+## Credits
+This project is based on a challenge from the freeCodeCamp CSS course.
 
