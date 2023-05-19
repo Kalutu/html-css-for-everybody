@@ -1,6 +1,9 @@
 # Cafe Menu
 This is a sample cafe menu created using HTML and CSS. It displays a list of coffee and dessert items, along with their prices.
 
+## Preview
+![Cafe Menu Website Preview](image/camper-cafe.PNG)
+
 ## How to Use
 To view the cafe menu, simply open the index.html file in a web browser.
 
