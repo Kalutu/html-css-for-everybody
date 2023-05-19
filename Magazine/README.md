@@ -1,6 +1,9 @@
 # Magazine Article
 This repository contains the HTML and CSS code for a magazine article about the new curriculum of freeCodeCamp. The article discusses the transition from a series of coding challenges to a project-based learning approach.
 
+## Preview
+![Magazine Website Preview](images/magazine.PNG)
+
 ## Table of Contents
 - [Description](#description)
 - [Screenshot](#screenshot)
