@@ -6,7 +6,6 @@ This repository contains the HTML and CSS code for a magazine article about the 
 
 ## Table of Contents
 - [Description](#description)
-- [Screenshot](#screenshot)
 - [Technologies](#technologies)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,9 +13,6 @@ This repository contains the HTML and CSS code for a magazine article about the 
 
 ## Description
 The HTML code in this repository represents a magazine article layout. It includes headings, paragraphs, images, and links to provide an engaging reading experience. The CSS code styles the elements in the article, giving it a visually appealing design.
-
-## Screenshot
-
 
 ## Technologies
 The following technologies were used in creating the magazine article:
