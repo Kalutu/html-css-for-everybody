@@ -1,6 +1,9 @@
 # City Skyline
 This project is a simple representation of a city skyline using HTML and CSS. It creates a visually appealing skyline with background and foreground buildings.
 
+## Preview
+![City Skyline Website Preview](image/city-skyline.PNG)
+
 ## Getting Started
 To view the city skyline, you can follow these steps:
 - Clone the repository or copy the HTML code.
