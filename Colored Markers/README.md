@@ -2,6 +2,9 @@
 This is a sample web page that displays three colored markers using HTML and CSS. 
 The purpose of this web page is to demonstrate the use of HTML and CSS for styling web pages.
 
+## Preview
+![Colored Markers Website Preview](image/colored-markers.PNG)
+
 ## Technologies Used
 - HTML5
 - CSS3
