@@ -4,11 +4,10 @@ This is a repository of HTML/CSS projects for beginners. These projects are desi
 ## Projects
 The following projects are included in this repository:
 
-- Personal Website - a simple website that showcases your personal information, interests, and skills
-- Recipe Book - a website that displays various recipes with images and ingredients
-- Landing Page - a website that promotes a product or service with a call-to-action button
-- Portfolio - a website that showcases your previous projects and work experience
-- Blog - a website that allows you to create and publish blog posts
+- City Skyline - is a simple representation of a city skyline using HTML and CSS. It creates a visually appealing skyline with background and foreground buildings.
+- Ferris Wheel - is a representation of a ferris wheel that creates a spinning wheel with multiple cabins.
+- Picasso Painting - is a representation of Picasso inspired painting.
+- Registration Form - is a representation on a web form that collects information from users and submits to a web server
 
 Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
 
