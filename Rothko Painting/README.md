@@ -1,6 +1,9 @@
 # Rothko Painting
 This is a web page that displays a painting inspired by the works of Mark Rothko. The painting is created using HTML and CSS.
 
+## Preview
+![Rothko Painting Website Review](image/rothko-painting.PNG)
+
 ## Getting Started
 To view the painting, open the index.html file in a web browser.
 
