@@ -1,6 +1,9 @@
 # Nutrition Label HTML and CSS
 This is a simple nutrition label created using HTML and CSS. The label contains information on the serving size, calories, and nutrient content of the food item. The purpose of this example is to demonstrate how to structure and style a nutrition label using HTML and CSS.
 
+## Preview
+![Nutrition Label Website Preview](image/nutrition.PNG)
+
 ## Getting Started
 To get started with this project, simply clone or download the repository and open the index.html file in your web browser. The styles.css file contains the CSS rules used to style the label.
 
