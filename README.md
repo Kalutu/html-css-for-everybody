@@ -7,7 +7,8 @@ The following projects are included in this repository:
 - City Skyline - is a simple representation of a city skyline using HTML and CSS. It creates a visually appealing skyline with background and foreground buildings.
 - Ferris Wheel - is a representation of a ferris wheel that creates a spinning wheel with multiple cabins.
 - Picasso Painting - is a representation of Picasso inspired painting.
-- Registration Form - is a representation on a web form that collects information from users and submits to a web server
+- Registration Form - is a representation on a web form that collects information from users and submits to a web server.
+- And more.
 
 Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
 
