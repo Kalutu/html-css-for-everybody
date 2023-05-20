@@ -1,6 +1,9 @@
 # Piano
 This repository contains an HTML code snippet for a piano interface. It displays a piano keyboard with black and white keys.
 
+## Preview
+![Piano Website Preview](image/piano.PNG)
+
 ## Built With
 - HTML
 - CSS
