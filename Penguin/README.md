@@ -2,7 +2,7 @@
 This is a simple CSS illustration of a penguin. It uses HTML and CSS to create a visual representation of a penguin in a snowy landscape.
 
 ## Preview
-![Penguin Illustration](./preview.png)
+![Penguin Illustration](image/penguin.PNG)
 
 ## Getting Started
 To view the penguin illustration, simply open the `index.html` file in a web browser.
